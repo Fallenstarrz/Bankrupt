@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bankrupt", "Bankrupt\Bankrupt.vcxproj", "{DF5B06E2-D124-4E43-8928-42567D4C4FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Debug|x64.ActiveCfg = Debug|x64
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Debug|x64.Build.0 = Debug|x64
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Debug|x86.Build.0 = Debug|Win32
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Release|x64.ActiveCfg = Release|x64
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Release|x64.Build.0 = Release|x64
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Release|x86.ActiveCfg = Release|Win32
+		{DF5B06E2-D124-4E43-8928-42567D4C4FF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F045871-0B32-4833-94CE-06078AA260A7}
+	EndGlobalSection
+EndGlobal
